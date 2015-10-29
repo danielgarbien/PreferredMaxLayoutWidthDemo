@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4FEBA3C9-3460-482D-AE5C-A68FA3B124C3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PreferredMaxLayoutWidthDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F29DE3C27F14E675CC6EB80D4C6BB272F38CA4B</key>
+		<string>https://github.com/danielgarbien/PreferredMaxLayoutWidthDemo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PreferredMaxLayoutWidthDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F29DE3C27F14E675CC6EB80D4C6BB272F38CA4B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danielgarbien/PreferredMaxLayoutWidthDemo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F29DE3C27F14E675CC6EB80D4C6BB272F38CA4B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F29DE3C27F14E675CC6EB80D4C6BB272F38CA4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PreferredMaxLayoutWidthDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
